@@ -9,4 +9,4 @@ Skills
 - HTML
 - Bootstrap
 
-For contact use my [e-mail] (mailto: amorimlopesfabiana@gmail.com) -
+For contact use my [e-mail](mailto:amorimlopesfabiana@gmail.com)
