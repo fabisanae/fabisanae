@@ -7,6 +7,9 @@ I have some repositories on Github, enjoy if you want.
 - 👩‍🎓 I'm graduating in Systems Analyst (technologist)
 
 
+![anime-hacking](https://user-images.githubusercontent.com/80265459/154730574-445f834a-4d18-44ae-b912-e33bab676914.gif)
+
+
 Skills
 
 
